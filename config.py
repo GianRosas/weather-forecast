@@ -1,4 +1,4 @@
-CITY = "Kelowna"
+CITY = "Chengdu"
 
 WEATHER_EMOJI = {
     # Clear/Sunny
@@ -144,7 +144,7 @@ AQI_INTERVALS = {
 }
 
 INTERVAL_DESC = {
-    1: "Exellent",
+    1: "Excellent",
     2: "Good",
     3: "Lightly Polluted",
     4: "Moderately Polluted",
